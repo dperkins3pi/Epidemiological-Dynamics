@@ -1,6 +1,6 @@
 This is a research project from the advanced differential equations course at BYU (MATH 436). With a group of 5, I worked to create an system of ordinary differential equations to model the spread of disease across multiple populations and understand the effects of introducing a cure.
 
-For more information, refer to [our paper](MultiPopulationSIRModel.pdf)
+For more information, refer to [our paper](https://arxiv.org/abs/2510.25085)
 
 
 **Research Project Abstract**
